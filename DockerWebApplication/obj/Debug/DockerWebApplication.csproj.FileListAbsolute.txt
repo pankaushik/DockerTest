@@ -1,0 +1,182 @@
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\ApplicationInsights.config
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\DockerWebApplication.dll.config
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\DockerWebApplication.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\DockerWebApplication.pdb
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\csc.exe
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\csc.exe.config
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\csc.rsp
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\csi.exe
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\csi.exe.config
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\csi.rsp
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.AppContext.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Console.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.IO.Compression.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.Claims.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Threading.Thread.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.ValueTuple.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\vbc.exe
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\vbc.exe.config
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\vbc.rsp
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Antlr3.Runtime.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.Web.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Newtonsoft.Json.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Helpers.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Mvc.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Optimization.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Razor.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.WebPages.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\WebGrease.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Helpers.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Mvc.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Optimization.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.Razor.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.WebPages.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Antlr3.Runtime.pdb
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Newtonsoft.Json.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\bin\Microsoft.AI.Web.xml
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\obj\Debug\DockerWebApplication.csprojResolveAssemblyReference.cache
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\obj\Debug\DockerWebApplication.csproj.CoreCompileInputs.cache
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\obj\Debug\DockerWebApplication.csproj.CopyComplete
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\obj\Debug\DockerWebApplication.dll
+D:\Pankaj\DockerTest\MyFirstProject\DockerWebApplication\obj\Debug\DockerWebApplication.pdb
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\ApplicationInsights.config
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\DockerWebApplication.dll.config
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\DockerWebApplication.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\DockerWebApplication.pdb
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\csc.exe
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\csc.exe.config
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\csc.rsp
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\csi.exe
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\csi.exe.config
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\csi.rsp
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.AppContext.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Console.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.IO.Compression.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.Claims.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Threading.Thread.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.ValueTuple.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\vbc.exe
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\vbc.exe.config
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\vbc.rsp
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Antlr3.Runtime.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.Web.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Newtonsoft.Json.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Helpers.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Mvc.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Optimization.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Razor.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.WebPages.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\WebGrease.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Helpers.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Mvc.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Optimization.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.Razor.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.WebPages.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Antlr3.Runtime.pdb
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Newtonsoft.Json.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\bin\Microsoft.AI.Web.xml
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\obj\Debug\DockerWebApplication.csprojResolveAssemblyReference.cache
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\obj\Debug\DockerWebApplication.csproj.CoreCompileInputs.cache
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\obj\Debug\DockerWebApplication.csproj.CopyComplete
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\obj\Debug\DockerWebApplication.dll
+D:\Pankaj\docker test repo\DockerTest\DockerWebApplication\obj\Debug\DockerWebApplication.pdb
